@@ -538,4 +538,4 @@ Screenshots / Demos:
 LEGO Set Explorer Dashboard Snapshot 1:- 
 ![Dashboard Preview](https://github.com/AjinkyaDJ/LEGO-Set-Explorer-Dashboard/blob/main/LEGO%20Set%20Explorer%20Snapshot%201.png)
 LEGO Set Explorer Dashboard Snapshot 2:- 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/AjinkyaDJ/LEGO-Set-Explorer-Dashboard/blob/main/LEGO%20Set%20Explorer%20Snapshot%202.png)
