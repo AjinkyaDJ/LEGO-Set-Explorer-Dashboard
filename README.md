@@ -532,3 +532,10 @@ Developed proficiency in DAX language
 Understood data modeling principles
 Learned visual design and UX best practices
 Gained experience with real-world business problem solving
+
+Screenshots / Demos:
+
+:- 
+![Dashboard Preview]()
+:- 
+![Dashboard Preview]()
